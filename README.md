@@ -66,3 +66,9 @@ QGIS.
 * `` documents/ `` – project report, and presentation used for academic submission
 * `` results/ ``: Exported change maps and accuracy reports
 * `` screenshots/ ``: Map previews for visualization
+
+# Screenshots
+# Classified Maps
+* classfied 2020
+* <img width="1920" height="1080" alt="classified2020" src="https://github.com/user-attachments/assets/4f417f22-9e66-44b5-9df5-02ec916c1699" />
+
