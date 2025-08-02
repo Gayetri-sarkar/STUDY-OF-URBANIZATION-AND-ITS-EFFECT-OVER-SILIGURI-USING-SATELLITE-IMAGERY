@@ -22,15 +22,15 @@ QGIS.
 
 # Methodology
 # 1. Preprocessing
-Filtered Sentinel-2 images (cloud cover < 30%)
-Created median composites for 2020 and 2024
-Computed spectral indices:
-NDVI (Normalized Difference Vegetation Index)
-NDBI (Normalized Difference Built-up Index)
-MNDWI (Modified NDWI)
-BSI (Bare Soil Index)
-Integrated elevation and slope layers from ALOS DSM
-Normalized all bands for classification consistency
+* Filtered Sentinel-2 images (cloud cover < 30%)
+* Created median composites for 2020 and 2024
+* Computed spectral indices:
+* NDVI (Normalized Difference Vegetation Index)
+* NDBI (Normalized Difference Built-up Index)
+* MNDWI (Modified NDWI)
+* BSI (Bare Soil Index)
+* Integrated elevation and slope layers from ALOS DSM
+* Normalized all bands for classification consistency
 # 2. Training & Classification
 Merged GCPs into a single FeatureCollection
 Applied a Random Forest classifier with 100 trees
