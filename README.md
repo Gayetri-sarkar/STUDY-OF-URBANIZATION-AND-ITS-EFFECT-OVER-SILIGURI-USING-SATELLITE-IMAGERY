@@ -58,7 +58,7 @@ QGIS.
 
 # Results Summary
 
-
+*Detailed statistics avaialable in* project_image
 
 
 # Folder Structure
