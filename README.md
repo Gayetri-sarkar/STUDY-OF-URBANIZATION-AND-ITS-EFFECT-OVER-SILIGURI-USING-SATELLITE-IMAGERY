@@ -57,6 +57,14 @@ QGIS.
 * sections and run inside the GEE Code Editor.
 
 # Results Summary
+| Metric                   | Value     |
+|--------------------------|-----------|
+| Changed Area (km²)       | 28.45     |
+| Total Study Area (km²)   | 90.80     |
+| Percentage Area Changed  | 31.33%    |
+| Accuracy (2020)          | 83.33%    |
+| Accuracy (2024)          | 92.86%    |
+
 
 *Detailed statistics avaialable in* 
 (https://github.com/Gayetri-sarkar/STUDY-OF-URBANIZATION-AND-ITS-EFFECT-OVER-SILIGURI-USING-SATELLITE-IMAGERY/tree/main/project_image) 
