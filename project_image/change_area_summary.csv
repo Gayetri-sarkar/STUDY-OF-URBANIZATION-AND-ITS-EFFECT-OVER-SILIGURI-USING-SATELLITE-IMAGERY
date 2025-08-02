@@ -1,3 +1,5 @@
+### 🌿 Land Cover Change Summary
+
 | system:index | Changed_Area_km2 | Percentage_Changed | Total_Area_km2 | Unchanged_Area_km2 | Vegetation_Gain_km2 | Vegetation_Loss_km2 | .geo                                 |
 |--------------|------------------|--------------------|----------------|---------------------|----------------------|----------------------|---------------------------------------|
 | 0            | 28.4479          | 31.3312%           | 90.7973        | 62.3494             | 0.5142               | 5.3822               | {"type":"MultiPoint","coordinates":[]} |
