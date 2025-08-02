@@ -62,7 +62,7 @@ QGIS.
 
 
 # Folder Structure
-* _ code/_ '': Main GEE script
-* '' documents/ '' – project report, and presentation used for academic submission
-* '' results/ '': Exported change maps and accuracy reports
-* '' screenshots/ '': Map previews for visualization
+* `` code/ ``: Main GEE script
+* `` documents/ `` – project report, and presentation used for academic submission
+* `` results/ ``: Exported change maps and accuracy reports
+* `` screenshots/ ``: Map previews for visualization
