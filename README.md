@@ -70,5 +70,22 @@ QGIS.
 # Screenshots
 # Classified Maps
 * classfied 2020
-* <img width="1920" height="1080" alt="classified2020" src="https://github.com/user-attachments/assets/4f417f22-9e66-44b5-9df5-02ec916c1699" />
+ <img width="1920" height="1080" alt="classified2020" src="https://github.com/user-attachments/assets/4f417f22-9e66-44b5-9df5-02ec916c1699" />
+* Classified 2024
+<img width="1920" height="1080" alt="classified2024" src="https://github.com/user-attachments/assets/3aed1068-ec42-4e7f-a72c-deead085218b" />
 
+# Changes in Maps
+* changes
+<img width="1920" height="1080" alt="classdifference" src="https://github.com/user-attachments/assets/cd27928e-99e4-478a-87ba-bbc0a87a4e0d" />
+* NDVI change
+<img width="1920" height="1080" alt="NDVIchange" src="https://github.com/user-attachments/assets/79cf3633-1efd-463c-aa36-639a4d312c98" />
+
+# Project Members
+This project was collaboratively completed by:
+
+* Subhamay Debnath
+* Gayatri Sarkar
+*Under the guidance of Prof. Dr. Tumpa Banerjee, Department of MCA, Siliguri Institute of Technology*
+
+# References
+All scientific references and source datasets are listed in
