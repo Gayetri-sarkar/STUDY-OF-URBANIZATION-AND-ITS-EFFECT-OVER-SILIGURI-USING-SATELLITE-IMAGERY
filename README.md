@@ -98,4 +98,4 @@ This project was collaboratively completed by:
 
 # References
 All scientific references and source datasets are listed in
-{references.bib}(https://github.com/Gayetri-sarkar/STUDY-OF-URBANIZATION-AND-ITS-EFFECT-OVER-SILIGURI-USING-SATELLITE-IMAGERY/blob/main/references.bib)
+[references.bib](https://github.com/Gayetri-sarkar/STUDY-OF-URBANIZATION-AND-ITS-EFFECT-OVER-SILIGURI-USING-SATELLITE-IMAGERY/blob/main/references.bib)
