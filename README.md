@@ -67,7 +67,7 @@ QGIS.
 
 
 *Detailed statistics avaialable in* 
-(https://github.com/Gayetri-sarkar/STUDY-OF-URBANIZATION-AND-ITS-EFFECT-OVER-SILIGURI-USING-SATELLITE-IMAGERY/tree/main/project_image) 
+(https://github.com/Gayetri-sarkar/STUDY-OF-URBANIZATION-AND-ITS-EFFECT-OVER-SILIGURI-USING-SATELLITE-IMAGERY/blob/main/project_image/change_area_summary.csv) 
 
 
 # Folder Structure
